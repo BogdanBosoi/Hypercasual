@@ -1,0 +1,1 @@
+move_towards_point(obj_core.x, obj_core.y, 10 + random(10))
