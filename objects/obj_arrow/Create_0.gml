@@ -24,7 +24,7 @@ if (global.script != 3 && global.script != 4)
 	}
 else
 	{
-		arrSpeed = 10;
+		arrSpeed = global.level * 4 + 5;
 		toRotate = 1;
 		alarm[0] = 40;
 	}

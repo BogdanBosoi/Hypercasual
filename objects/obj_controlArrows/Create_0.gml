@@ -4,6 +4,7 @@ randomize();
 global.script = choose(1, 2, 3, 4);
 
 dimChoose = 0;
+circleRatio = 1;
 
 if global.script != 3{
 	arrows = global.level * 5 + 15;
